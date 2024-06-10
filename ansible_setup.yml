@@ -1,0 +1,5 @@
+- name: Get facts
+  hosts: all
+  tasks:
+    - setup:
+   
